@@ -1,6 +1,6 @@
 # Worldle Clone
 
-This is a Python implementation of a game by [Worldle](https://worldle.teuteuf.fr/), a popular online map guess game. In this game the player is presented with the border of a country. and tries to guess the country with distance and direction clues in their predictions.
+This is a Python implementation of a game called [Worldle](https://worldle.teuteuf.fr/), a popular online map guess game. In this game the player is presented with the border of a country atries to guess the country using distance and direction clues.
 
 ## Libraries
 
@@ -19,7 +19,7 @@ This is a Python implementation of a game by [Worldle](https://worldle.teuteuf.f
 ```
 https://github.com/omerahat/Worldle_Clone.git
 ```
-2. Open Worldle_Clone.ipynb in a program that supports the .ipynb format.
+2. Open Worldle_Clone.ipynb in a program that can open .ipynb files.
 
 (Here is some examples for that: Jupyter Notebook (cross-platform), Jupyter Notebook Viewer (Web), Cantor (Linux), or Google Colaboratory (Web))
 
@@ -30,7 +30,7 @@ https://github.com/omerahat/Worldle_Clone.git
 
 ## Game Rules
 
-- Only countries' English and abbreviations are considered correct guesses.For example: TR,India,MX (PS: Your guesses not case-sensitive)
+- Only the English names or abbreviations of countries are considered correct guesses.For example: TR,India,MX (PS: Guesses are not case-sensitive)
 
 - You have a total of 5 guesses to guess the country correctly.
 
@@ -40,7 +40,7 @@ https://github.com/omerahat/Worldle_Clone.git
 
 ### Green : Last Guess
 
-### Red : Respectively, the county code you guessed, the distance in km between the target country and your guess, the proximity as a percentage, the position of your guess relative to the target country, the remaining guess right.
+### Red : In order, the country code you guessed, the distance in km between the target country and your guess, the proximity as a percentage, the position of your guess relative to the target country, and the remaining guesses left.
 
 
 
