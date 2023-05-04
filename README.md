@@ -36,11 +36,11 @@ https://github.com/omerahat/Worldle_Clone.git
 
 ## Signs & Output
 
-### Orange : The shape of the country
+- Orange : The shape of the country
 
-### Green : Last Guess
+- Green : Last Guess
 
-### Red : In order, the country code you guessed, the distance in km between the target country and your guess, the proximity as a percentage, the position of your guess relative to the target country, and the remaining guesses left.
+- Red : In order, the country code you guessed, the distance in km between the target country and your guess, the proximity as a percentage, the position of your guess relative to the target country, and the remaining guesses left.
 
 
 
